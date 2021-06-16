@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/def-Tanja/static/css/main.93ea6d4f.chunk.css",
-    "main.js": "/def-Tanja/static/js/main.d0ed4db6.chunk.js",
-    "main.js.map": "/def-Tanja/static/js/main.d0ed4db6.chunk.js.map",
+    "main.css": "/def-Tanja/static/css/main.f59cce00.chunk.css",
+    "main.js": "/def-Tanja/static/js/main.deb5dc65.chunk.js",
+    "main.js.map": "/def-Tanja/static/js/main.deb5dc65.chunk.js.map",
     "runtime-main.js": "/def-Tanja/static/js/runtime-main.c0d8042e.js",
     "runtime-main.js.map": "/def-Tanja/static/js/runtime-main.c0d8042e.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/def-Tanja/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.7228161b.chunk.js": "/def-Tanja/static/js/2.7228161b.chunk.js",
-    "static/js/2.7228161b.chunk.js.map": "/def-Tanja/static/js/2.7228161b.chunk.js.map",
+    "static/js/2.34e8726f.chunk.js": "/def-Tanja/static/js/2.34e8726f.chunk.js",
+    "static/js/2.34e8726f.chunk.js.map": "/def-Tanja/static/js/2.34e8726f.chunk.js.map",
     "static/js/3.047619ab.chunk.js": "/def-Tanja/static/js/3.047619ab.chunk.js",
     "static/js/3.047619ab.chunk.js.map": "/def-Tanja/static/js/3.047619ab.chunk.js.map",
     "index.html": "/def-Tanja/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/def-Tanja/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.93ea6d4f.chunk.css.map": "/def-Tanja/static/css/main.93ea6d4f.chunk.css.map",
-    "static/js/2.7228161b.chunk.js.LICENSE.txt": "/def-Tanja/static/js/2.7228161b.chunk.js.LICENSE.txt",
+    "static/css/main.f59cce00.chunk.css.map": "/def-Tanja/static/css/main.f59cce00.chunk.css.map",
+    "static/js/2.34e8726f.chunk.js.LICENSE.txt": "/def-Tanja/static/js/2.34e8726f.chunk.js.LICENSE.txt",
     "static/media/1.82a3f56d.jpg": "/def-Tanja/static/media/1.82a3f56d.jpg",
     "static/media/2.d9aa4416.jpg": "/def-Tanja/static/media/2.d9aa4416.jpg",
-    "static/media/3.e59188e6.jpg": "/def-Tanja/static/media/3.e59188e6.jpg",
+    "static/media/3.c3854f6e.jpg": "/def-Tanja/static/media/3.c3854f6e.jpg",
+    "static/media/3_1.02b8f175.jpg": "/def-Tanja/static/media/3_1.02b8f175.jpg",
     "static/media/4.ccc6334e.jpg": "/def-Tanja/static/media/4.ccc6334e.jpg",
     "static/media/5.f2d31240.jpg": "/def-Tanja/static/media/5.f2d31240.jpg",
     "static/media/Combi_1.c8bccba5.jpg": "/def-Tanja/static/media/Combi_1.c8bccba5.jpg",
@@ -46,8 +47,8 @@
   "entrypoints": [
     "static/js/runtime-main.c0d8042e.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.7228161b.chunk.js",
-    "static/css/main.93ea6d4f.chunk.css",
-    "static/js/main.d0ed4db6.chunk.js"
+    "static/js/2.34e8726f.chunk.js",
+    "static/css/main.f59cce00.chunk.css",
+    "static/js/main.deb5dc65.chunk.js"
   ]
 }
